@@ -1,0 +1,8 @@
+torch
+timm
+opencv-python
+numpy
+pyyaml
+matplotlib
+tqdm
+trimesh
